@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedromello02
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning programing logic. 
-- 💞️ I’m looking to collaborate with company security
+- 💞️ I’m looking to collaborate With my goal of combining my interest in cybersecurity with my background in international law, I aim to contribute to the protection of data and digital systems by applying global legal principles that ensure security and compliance in an interconnected digital environment.
 - 📫 How to reach me Pedroh.mello02@gmail.com 
 - 😄 Pronouns: Ele/Dele
 
